@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/05 22:12:28.000.973,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:14:32.000.853,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:18:55.000.935,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unLogin.pas</Transaction>
+    <Transaction>2022/07/22 19:18:55.000.935,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unLogin.dfm</Transaction>
+    <Transaction>2022/07/22 19:19:05.000.724,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Teste_Download.dproj</Transaction>
+    <Transaction>2022/07/22 19:23:37.000.747,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:24:04.000.627,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:25:09.000.942,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:26:44.000.499,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unComponentes.dfm</Transaction>
+    <Transaction>2022/07/22 19:26:44.000.499,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unComponentes.pas</Transaction>
+    <Transaction>2022/07/22 19:29:48.000.067,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:30:44.000.121,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unBaixar.dfm</Transaction>
+    <Transaction>2022/07/22 19:30:44.000.121,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unBaixar.pas</Transaction>
+    <Transaction>2022/07/22 19:34:35.000.731,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Teste_Download.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\Teste_Download.dproj</Transaction>
+    <Transaction>2022/07/22 19:36:08.343,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unBaixar.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unBaixar.dfm</Transaction>
+    <Transaction>2022/07/22 19:36:08.343,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unBaixar.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unBaixar.pas</Transaction>
+    <Transaction>2022/07/22 19:36:18.165,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unLogin.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unLogin.dfm</Transaction>
+    <Transaction>2022/07/22 19:36:18.165,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unLogin.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unLogin.pas</Transaction>
+    <Transaction>2022/07/22 19:36:26.416,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unComponentes.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unComponentes.pas</Transaction>
+    <Transaction>2022/07/22 19:36:26.416,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unComponentes.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\unComponentes.dfm</Transaction>
+    <Transaction>2022/07/22 19:48:40.830,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:48:49.013,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unHistorico.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\Unit1.pas</Transaction>
+    <Transaction>2022/07/22 19:48:49.013,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\unHistorico.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Downloads\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
